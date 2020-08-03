@@ -19,7 +19,7 @@
 4. Dimension Tables: users, songs, artists,time.
 
 ### Below is the ER diagram:
-![ER_diagram](Song_ERD.png)
+[ER_diagram](https://github.com/git-nami/Sparkify/blob/master/Postgres/home/Song_ERD.png)
 
 # ETL Pipeline Design:
 ----------------------
